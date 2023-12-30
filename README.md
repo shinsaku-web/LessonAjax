@@ -10,3 +10,7 @@
 [リンクです](https://www.yahoo.co.jp/)
 
 
+
+```
+console.log("これはjavascriptのコードです！")
+```
