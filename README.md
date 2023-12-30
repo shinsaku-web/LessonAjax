@@ -11,6 +11,6 @@
 
 
 
-```
+```js
 console.log("これはjavascriptのコードです！")
 ```
